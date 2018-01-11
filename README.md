@@ -29,7 +29,7 @@ cd cat/
 
 bundle install
 
-Change the Username and Password of Database in datbase.yml file.
+Change the Username and Password of Database in database.yml file.
 
 rails db:create
 
